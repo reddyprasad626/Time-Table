@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    position: absolute;
+    top: 20vh;
+    left: 80vh;
+    font-size: 10vh;
+   background-image: none;
+}
+img{
+    width: 204vh;
+    height: 99vh;
+}
+
+
+button{
+    position: absolute;
+    top: 60vh;
+    left: 75vh;
+    font-size: 35px;
+    border: none;
+
+    padding: 10px 10px;
+    border-radius: 20px;
+font-family: monospace;
+    cursor:pointer;
+background: none;
+    border: 2px solid  brown;
+background-image: none;
+ 
+ 
+}
+button:hover{
+
+   border-radius: 20px;
+    padding: 10px 10px;
+   
+}

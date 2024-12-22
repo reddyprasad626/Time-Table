@@ -1,0 +1,244 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    position: relative;
+}
+img{
+  position: absolute;
+  height: 100vh;
+  width: 204vh;
+}
+.years button{
+ position: relative;
+  margin-top: 35vh;
+   margin-left: 30vh;
+ padding: 20px 50px;
+ font-size: 5vh;
+background: none;
+color: cyan;
+   margin-right: 40px;
+   font-family: monospace;
+   border: 2px solid thistle;
+   border-radius: 50%;
+   height: 150px;
+   width: 150px;
+}
+button:hover{
+    cursor: pointer;
+    
+}
+    .years button{
+
+      color: #fff;
+      text-align: center;
+      text-shadow: 0 0 5px #fff, 0 0 10px #ff00ff, 0 0 15px #ff00ff, 0 0 20px #ff00ff;
+    }
+    
+    @keyframes glow {
+      0% {
+        text-shadow: 0 0 5px #fff, 0 0 10px #ff00ff, 0 0 15px #ff00ff;
+      }
+      50% {
+        text-shadow: 0 0 20px #fff, 0 0 30px #ff00ff, 0 0 40px #ff00ff;
+      }
+      100% {
+        text-shadow: 0 0 5px #fff, 0 0 10px #ff00ff, 0 0 15px #ff00ff;
+      }
+    }
+
+    .years button{
+   
+      color: #fff;
+      text-align: center;
+      animation: glow 1.5s ease-in-out infinite;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+position: absolute;
+ margin-top: 25vh;
+ margin-left:95vh;
+ font-size: 5vh;
+ text-decoration: none;
+ border: 2px solid white;
+ padding: 10px 20px;
+ border-radius: 20px;
+ color:ghostwhite;
+
+}
+a:hover{
+ cursor: pointer;
+ color: white;
+
+}
+   
